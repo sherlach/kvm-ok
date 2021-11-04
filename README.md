@@ -8,16 +8,24 @@ This mirror makes it easier to download and use this script on non ubuntu machin
 
 ## INSTALLATION
 
-> $ git clone https://github.com/sherlach/kvm-ok
-> $ cd kvm-ok
+```
+$ git clone https://github.com/sherlach/kvm-ok 
+$ cd kvm-ok
+```
 
-(optional)
-> $ sudo make install
+(optional to install to system for execution from any directory)
+```
+$ sudo make install
+```
 
 ## USAGE
 
 if you chose to install it, simply invoke 
-> $ kvm-ok
+```
+$ kvm-ok
+```
 
 if you just have the script, `cd` to this directory and then
-> $ ./kvm-ok
+```
+$ ./kvm-ok
+```
